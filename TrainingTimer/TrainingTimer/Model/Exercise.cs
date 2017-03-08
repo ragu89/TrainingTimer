@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace TrainingTimer.Model
-{
+{ 
     public class Exercise
     {
         /// <summary>
