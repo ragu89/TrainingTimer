@@ -1,0 +1,4 @@
+C:\Dev\Src\GuyeR\TrainingTimer\TrainingTimer\TrainingTimer\TrainingTimer\bin\Debug\TrainingTimer.dll
+C:\Dev\Src\GuyeR\TrainingTimer\TrainingTimer\TrainingTimer\TrainingTimer\bin\Debug\TrainingTimer.pdb
+C:\Dev\Src\GuyeR\TrainingTimer\TrainingTimer\TrainingTimer\TrainingTimer\obj\Debug\TrainingTimer.dll
+C:\Dev\Src\GuyeR\TrainingTimer\TrainingTimer\TrainingTimer\TrainingTimer\obj\Debug\TrainingTimer.pdb

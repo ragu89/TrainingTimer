@@ -1,0 +1,1 @@
+C:\Dev\Src\GuyeR\TrainingTimer\TrainingTimer\TrainingTimer\TrainingTimer.UWP\TrainingTimer.UWP.csproj;x86

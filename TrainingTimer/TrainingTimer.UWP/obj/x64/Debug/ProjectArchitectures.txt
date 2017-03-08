@@ -1,0 +1,2 @@
+C:\Dev\Src\GuyeR\TrainingTimer\TrainingTimer\TrainingTimer\TrainingTimer.UWP\TrainingTimer.UWP.csproj;x64
+C:\Dev\Src\GuyeR\TrainingTimer\TrainingTimer\TrainingTimer\TrainingTimer\TrainingTimer.csproj;neutral
